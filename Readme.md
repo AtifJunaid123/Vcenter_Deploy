@@ -121,3 +121,50 @@ Select one of the following:
 
 ### 22. Successfully Deployed the vCenter Server Appliance!
 ![Successfully Deployed the vCenter Server Appliance](Pic/done_7u3.png)
+
+# Add Esxi Servers with VCenter 
+
+### Add DataCenter using this Pic
+![Add DataCenter](Pic/DataCenter/Add_DataCenter.png)
+
+### Name Assign to DataCenter
+![Assign Name to DataCenter](Pic/DataCenter/Name_Assign_DataCenter.png)
+
+### Name Assign to DataCenter
+![Assign Name to DataCenter](Pic/DataCenter/Name_Assign_DataCenter.png)
+- **After This DataCenter with following Name will be Added!**
+
+### Add Host in DataCenter
+![Add Host](Pic/DataCenter/How_to_addHost.png)
+- **Click Next**
+
+### Add Host root - Name, Password
+![Add Host Credentials](Pic/DataCenter/Host_rootPass.png)
+- **Click Next**
+
+### Add Host root - Name, Password
+![Add Host Credentials](Pic/DataCenter/Host_rootPass.png)
+- **Click Next**
+
+### Host Summary
+![Host Summary](Pic/DataCenter/HostSummary_clickNext.png)
+- **Click Next**
+
+### Select License
+![License](Pic/DataCenter/addLicense_next.png)
+- **Click Next**
+
+### Lockdown Mode
+![Lockdown Mode](Pic/DataCenter/LockDown_Disabled_next.png)
+- **Click Next**
+
+### VM Location
+![VM Location](Pic/DataCenter/vmLocation_Next.png)
+- **Click Next**
+
+### Ready to Complete
+![Ready to Complete](Pic/DataCenter/Ready_toComplete_Finish.png)
+- **Click Finish**
+
+### Host Added Successfully
+- **After this takes time and Host will added with all existing Vms, Port, Switches**
