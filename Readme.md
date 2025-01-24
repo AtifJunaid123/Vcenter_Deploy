@@ -122,6 +122,7 @@ Select one of the following:
 ### 22. Successfully Deployed the vCenter Server Appliance!
 ![Successfully Deployed the vCenter Server Appliance](Pic/done_7u3.png)
 
+
 # Add Esxi Servers with VCenter 
 
 ### Add DataCenter using this Pic
@@ -153,6 +154,10 @@ Select one of the following:
 ### Select License
 ![License](Pic/DataCenter/addLicense_next.png)
 - **Click Next**
+   
+   - I am using this licences for respective Esxi:
+   - **vmware 7.x -> JJ2WR-25L9P-H71A8-6J20P-C0K3F**
+   - **vmware 6.x -> 4A4X0-69HE3-M8548-6L1QK-1Y240**
 
 ### Lockdown Mode
 ![Lockdown Mode](Pic/DataCenter/LockDown_Disabled_next.png)
